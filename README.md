@@ -40,5 +40,17 @@ Os produtos são armazenados em um arquivo:
 
 ```text
 arquivo.json
-``
 ```
+
+## Como executar
+
+Clone o repositório e execute o arquivo Python principal conforme a estrutura do projeto.
+
+```bash
+git clone https://github.com/murilloepifanio/cadastro-produtos-json.git
+cd cadastro-produtos-json
+```
+
+## Autor
+
+Murillo Epifânio de Almeida.
