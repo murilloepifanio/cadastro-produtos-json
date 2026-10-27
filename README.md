@@ -53,4 +53,4 @@ cd cadastro-produtos-json
 
 ## Autor
 
-Murillo Epifânio de Almeida.
+Murillo Epifânio Rodrigues de Almeida.
